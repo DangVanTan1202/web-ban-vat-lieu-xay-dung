@@ -1,0 +1,21 @@
+.box50{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+}
+.chantrang a{
+    margin: 5px;
+    text-decoration: none;
+    color: gray;
+}
+.list-menu li a{
+    /* bo gach chan the a */
+    text-decoration: none;
+    color: gray;
+}
+.list-menu li{
+    /* bo dau cham li */
+    list-style: none;
+}

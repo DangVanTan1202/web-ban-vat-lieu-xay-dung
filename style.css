@@ -1,0 +1,49 @@
+.product_list{
+    display: flex;
+    margin: 30px;
+}
+.sanpham{
+    float: left;
+    width: 22%;
+    height: 320px;
+    margin: 1%;
+    margin-bottom: 50px;
+    padding: 30px;
+    box-sizing: border-box;
+    line-height: 26px;
+    border: 1px solid black;
+    padding-top: 5px;
+}
+.sanpham label{
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+.sanpham a{
+    text-decoration: none;
+}
+.ma_sp{
+    color: brown;
+    font-weight: bold;
+}
+.gia_sp{
+    color: green;
+}
+.vnd{
+    color: darkmagenta;
+}
+.anh_sp{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#phantrang{
+    text-align: center;
+    height: auto;
+    margin-bottom: 20px;
+}
+.page-item{
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: darkolivegreen;
+    color: white;
+}
